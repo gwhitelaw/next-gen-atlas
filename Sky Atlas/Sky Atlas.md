@@ -2,10 +2,6 @@
 
 This Preamble will be further populated in later iterations of the Atlas.
 
-## A.0.1 - Atlas Preamble [Article]  <!-- UUID: 56b15d7d-cdd4-4594-bd95-4f094564ac04 -->
-
-This Article contains definitions and general provisions that should be inherited as essential context for the Atlas as a whole.
-
 ### A.0.1.1 - Definitions [Section]  <!-- UUID: c7d62f28-1d64-4632-8cd8-4f2b44c51bba -->
 
 This Section contains essential definitions that are to be inherited as context for all Atlas documents.
@@ -328,10 +324,6 @@ This Action Tenet acknowledges the necessity for Facilitators to possess flexibl
 
 The broad interpretive and discretionary capacity granted Facilitators by [A.0.1.2.1.2 - Precedence Over Conflicting Provisions](fe58827d-5a02-4b84-bd56-8e5d93ef8f48) takes precedence over any conflicting provisions in the Atlas.
 
-# A.1 - The Governance Scope [Scope]  <!-- UUID: 18ac7dd3-c646-4352-9b0d-d01a2932d7d1 -->
-
-The Governance Scope regulates the governance processes and balance of power of the Sky Ecosystem. The Governance Scope must ensure that the resilient equilibrium of Sky Governance remains protected against all potential direct and indirect threats.
-
 ## A.1.1 - Spirit of the Atlas [Article]  <!-- UUID: 86a93dab-2f12-4c3f-9285-bcc4520c851b -->
 
 The Spirit of the Atlas represents the foundational principles of Sky Governance. The Spirit of the Atlas is enshrined in the Immutable Documents, reflected in the Atlas as a whole and enacted by aligned participants of the Sky Ecosystem.
@@ -340,6 +332,9 @@ The Spirit of the Atlas represents the foundational principles of Sky Governance
 
 The guiding principles of the Sky Ecosystem, known as the Spirit of the Atlas, form the foundation of the Sky Governance process. These principles are enshrined in the Immutable Documents of the Atlas, enabling coordination around a resilient governance equilibrium that optimizes for Universal Alignment between the ecosystem and its environment. The Immutable Documents take precedence over any other rules, decisions, or governance structures that may conflict with them. The Immutable Documents provide the definitive criteria for determining whether the Sky Ecosystem's rules and incentives are in harmony with Universal Alignment.
 
+## A.1.1.1 - Atlas Preamble [Article]  <!-- UUID: 56b15d7d-cdd4-4594-bd95-4f094564ac04 -->
+
+This Article contains definitions and general provisions that should be inherited as essential context for the Atlas as a whole.
 ### A.1.1.2 - Interpretation Of The Spirit Of The Atlas [Section]  <!-- UUID: f1b305d3-b4a1-4b00-85fa-6dec8e995e42 -->
 
 Where the Immutable Documents do not contain explicit instructions about a particular topic, the Spirit of the Atlas should be extrapolated to maximize Universal Alignment and mitigate risks of slippery slope misalignment. Atlas Interpretations must be fully congruent with the Spirit of the Atlas and established precedent. Further, each Atlas Interpretation must set a clear precedent to avoid future ambiguities that could impede effective governance.
@@ -6369,6 +6364,9 @@ Aligned Delegates are eligible to receive budgets through this funding process. 
 
 This Article governs the Sky Primitives. A Sky Primitive is a standardized interface that allows Agents to connect to, and leverage, Sky Protocol’s permissioned infrastructure. This Article defines each of the Sky Primitives available for Prime Agents to use to expand the Sky Ecosystem. Each Prime Agent strategy is unique, so each may combine the Sky Primitives differently.
 
+# A.2.3 - The Governance Scope [Scope]  <!-- UUID: 18ac7dd3-c646-4352-9b0d-d01a2932d7d1 -->
+
+<p>The Governance Scope regulates the governance processes and balance of power of the Sky Ecosystem. The Governance Scope must ensure that the resilient equilibrium of Sky Governance remains protected against all potential direct and indirect threats</p>
 ### A.2.3.1 - Primitives In General [Section]  <!-- UUID: df611e97-f99d-4244-8573-e706fbd1dfbc -->
 
 The documents herein define general principles relating to Agent Artifact evolution, enumerate the currently available Sky Primitives, and prescribe the procedures by which Agents can activate, invoke and deploy the Primitives.
@@ -12440,6 +12438,9 @@ This Article defines methodologies and processes for optimizing and aligning the
 
 This Section defines the role of the Core Executor Agents in managing the Core Stability Parameters.
 
+## A.3.1.1 - Risk Capital [Article]  <!-- UUID: 55999acf-75fe-4adf-8584-9746ef50d3e4 -->
+
+Prime Agents who invest capital from Sky’s Collateral Portfolio using the Allocation System Primitive must hold Risk Capital to protect Sky from potential losses on these investments. This Article sets forth the framework governing Risk Capital.
 #### A.3.1.1.1 - Setting Base Rate [Core]  <!-- UUID: 9ced57db-dfcd-4ca3-ba29-b4803c91bb7c -->
 
 The Core Executor Agents, in consultation with the Core Council Risk Advisor, must set the Base Rate to ensure (1) a sufficient level of Cash Stablecoins and (2) price stability of USDS and other Stablecoins produced by the Sky Ecosystem. The subdocuments herein define the process that the Core Executor Agents should follow in setting the Base Rate.
@@ -12597,10 +12598,6 @@ The element "processes" refers to the step-by-step procedures or sequences of ac
 ### A.3.1.0.3.4 - Stabilize - Element Annotation [Annotation]  <!-- UUID: f90156d0-6dd2-4a0d-9981-b3079368fbc0 -->
 
 The element "stabilize" refers to the objective of maintaining USDS’s value within a narrow range, preventing significant fluctuations that could lead to volatility. USDS should be worth $1 USD to fulfill its promise of being a Stablecoin.
-
-## A.3.2 - Risk Capital [Article]  <!-- UUID: 55999acf-75fe-4adf-8584-9746ef50d3e4 -->
-
-Prime Agents who invest capital from Sky’s Collateral Portfolio using the Allocation System Primitive must hold Risk Capital to protect Sky from potential losses on these investments. This Article sets forth the framework governing Risk Capital.
 
 ### A.3.2.1 - Conceptual Framework [Section]  <!-- UUID: ee3a912d-c340-41ee-b33e-45e72f215d49 -->
 

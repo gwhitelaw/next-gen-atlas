@@ -112,8 +112,7 @@ Scope Artifacts must not be changed beyond the Scope boundaries defined by the A
 
 #### A.0.1.1.16 - The Atlas [Core]  <!-- UUID: 98223867-c60a-4b28-9401-94fc1ed9b4cd -->
 
-The Atlas is the foundational set of rules powering Sky Ecosystem. It consists of Immutable Documents and Adaptive Documents. The former enshrine the Spirit of the Atlas and become permanently immutable from the moment the Sky Ecosystem enters the Endgame State. The Adaptive Documents practically operationalize the Spirit of the Atlas and will be continuously improved through the Sky Governance process. The Immutable part of the Atlas ensures the aligned evolution of Sky: it mitigates the potential and actual damage caused by Slippery Slope Misalignment, which erodes the potency of Alignment Engineering over time.
-
+The Atlas is the foundational set of rules powering Sky Ecosystem. It consists of Immutable Documents and Adaptive Documents. The former enshrine the Spirit of the Atlas and become permanently immutable from the moment the Sky Ecosystem enters the BananaRama State. The Adaptive Documents practically operationalize the Spirit of the Atlas and will be continuously improved through the Sky Governance process. The Immutable part of the Atlas ensures the aligned evolution of Sky: it mitigates the potential and actual damage caused by Slippery Slope Misalignment, which erodes the potency of Alignment Engineering over time.
 #### A.0.1.1.17 - Alignment Conserver (AC) [Core]  <!-- UUID: 94a451ce-100c-4ff5-8d53-65953938ecde -->
 
 Alignment Conservers (ACs) are external entities that play a fundamental role in facilitating and protecting the Sky Governance process by ensuring it occurs according to the processes defined in the Atlas. ACs enable SKY holders to participate in Sky Governance in a manner where it is easy for SKY holders to make the decisions that best benefit their long-term interests as SKY holders, even if SKY holders overall have relatively little alignment.
@@ -5454,14 +5453,12 @@ The subdocuments herein provide a breakdown of the Atlas Edit Weekly Cycle.
 
 ##### A.1.10.2.1.1 - Proposals In General [Core]  <!-- UUID: 6c52610b-b9f0-49a3-8014-d1f51543dcdf -->
 
-In the transition to Endgame, the Atlas can be edited through the submission of an Atlas Edit Weekly Cycle Proposal (also "Weekly Cycle Proposal" or "Proposal"). Multiple amendments to multiple components of the Atlas are allowed to be submitted in a single Weekly Cycle Proposal. A single Weekly Cycle Proposal may seek to remove multiple components of the Atlas. 
+In the transition to BananaRama, the Atlas can be edited through the submission of an Atlas Edit Weekly Cycle Proposal (also "Weekly Cycle Proposal" or "Proposal"). Multiple amendments to multiple components of the Atlas are allowed to be submitted in a single Weekly Cycle Proposal. A single Weekly Cycle Proposal may seek to remove multiple components of the Atlas. 
 
 Atlas Edits must always adhere to the Spirit of the Atlas and remain within the bounds of Universal Alignment.
-
 ###### A.1.10.2.1.1.0.4.1 - In The Transition To Endgame - Immutable Documents Can Be Amended [Action Tenet]  <!-- UUID: 8139e05f-dbe9-4324-ba87-53248d7ca1b5 -->
 
-Currently, in the transition to Endgame, the Immutable Documents (Articles and Sections) can be amended pursuant to [A.1.10 - Weekly Governance Cycle](83edd4e1-692e-4566-a415-b8f272c33c5e) and [A.1.11 - Monthly Governance Cycle](7f2ba62c-9b3b-4df6-aa16-189a749cffa3). Once the Sky Ecosystem enters the Endgame State, the Immutable Documents of the Atlas will be forever locked down and cannot be changed.
-
+Currently, in the transition to BananaRama, the Immutable Documents (Articles and Sections) can be amended pursuant to [A.1.10 - Weekly Governance Cycle](83edd4e1-692e-4566-a415-b8f272c33c5e) and [A.1.11 - Monthly Governance Cycle](7f2ba62c-9b3b-4df6-aa16-189a749cffa3). Once the Sky Ecosystem enters the BananaRama State, the Immutable Documents of the Atlas will be forever locked down and cannot be changed.
 ##### A.1.10.2.1.2 - Origination Via Forum Post [Core]  <!-- UUID: 2891a392-d5ca-45a5-80ca-ad2afaf5baa1 -->
 
 The Author of an Atlas Edit Weekly Cycle Proposal (also "Weekly Cycle Proposal" or "Proposal") must post the Proposal in the Sky Forum in the appropriate category and signal their intent to submit the Proposal to the Weekly Cycle.
@@ -5801,8 +5798,7 @@ A Reconciliation Process poll will take place during the Operational Weekly Cycl
 
 #### A.1.11.2.0.4.1 - In The Transition To Endgame - Immutable Documents Can Be Amended [Action Tenet]  <!-- UUID: b1ffdef7-4472-4cc9-8be1-4896e3373761 -->
 
-Currently, in the transition to Endgame, the Immutable Documents (Articles and Sections) can be amended pursuant to [A.1.10 - Weekly Governance Cycle](83edd4e1-692e-4566-a415-b8f272c33c5e) and [A.1.11 - Monthly Governance Cycle](7f2ba62c-9b3b-4df6-aa16-189a749cffa3). Once the Sky Ecosystem enters the Endgame State, the Immutable Documents of the Atlas will be forever locked down and cannot be changed.
-
+Currently, in the transition to BananaRama, the Immutable Documents (Articles and Sections) can be amended pursuant to [A.1.10 - Weekly Governance Cycle](83edd4e1-692e-4566-a415-b8f272c33c5e) and [A.1.11 - Monthly Governance Cycle](7f2ba62c-9b3b-4df6-aa16-189a749cffa3). Once the Sky Ecosystem enters the BananaRama State, the Immutable Documents of the Atlas will be forever locked down and cannot be changed.
 ## A.1.12 - Updating Active Data [Article]  <!-- UUID: 75e8fd51-a540-4c3a-aaa9-1a38502f89b2 -->
 
 This Article regulates modifications to Active Data documents. Active Data documents can be directly modified by Facilitators or other recognized actors through processes that occur outside the standard Weekly Governance Cycle and Monthly Governance Cycle.
@@ -16223,8 +16219,7 @@ USDS is the Stablecoin product of the Sky Protocol. It is designed to remain sta
 
 #### A.4.1.1.1 - USDS Launch [Core]  <!-- UUID: 3e00cf4d-8b10-4182-bb3d-08b63bc55aeb -->
 
-In the Endgame Token Launch Phase, USDS was launched as an upgrade to Dai, offering new features, including Token Rewards. Dai can be exchanged to and from USDS at a rate of 1:1.
-
+In the BananaRama Token Launch Phase, USDS was launched as an upgrade to Dai, offering new features, including Token Rewards. Dai can be exchanged to and from USDS at a rate of 1:1.
 ##### A.4.1.1.1.1 - Gnosis Payment [Core]  <!-- UUID: 8f721d05-6f9b-4efe-b737-18f634f9703d -->
 
 Sky has agreed to compensate Gnosis for the difference between the Sky Savings Rate and the Dai Savings Rate on xDai balances for the period between March 1, 2025 and October 28, 2025.
@@ -16237,8 +16232,7 @@ SKY is the governance token of the Sky Protocol. It grants voting rights in the 
 
 #### A.4.1.2.1 - MKR To SKY Upgrade [Core]  <!-- UUID: 6bb8b5b2-a2a8-4728-bddb-28bf054de9b6 -->
 
-Historically, MKR was the governance token of the Sky Protocol. As part of the transition to the Endgame, the technical infrastructure of the Sky Protocol was upgraded to use SKY as its governance token rather than MKR.
-
+Historically, MKR was the governance token of the Sky Protocol. As part of the transition to the BananaRama, the technical infrastructure of the Sky Protocol was upgraded to use SKY as its governance token rather than MKR.
 ##### A.4.1.2.1.1 - MKR To SKY Upgrade Approval [Core]  <!-- UUID: eaa5f1ae-f336-49f8-b5d3-7bb01984ba0e -->
 
 **MKR holders have voted to approve the deprecation of MKR as the governance token of the Sky Protocol with full knowledge of the changes being proposed. See **[**https://vote.makerdao.com/polling/QmcZNZg3**](https://vote.makerdao.com/polling/QmcZNZg3)**. This deprecation includes all actions defined in **[**A.4.1.2.1 - MKR To SKY Upgrade**](6bb8b5b2-a2a8-4728-bddb-28bf054de9b6)**, including, but not limited to, the removal of voting rights from MKR and the Delayed Upgrade Penalty**.

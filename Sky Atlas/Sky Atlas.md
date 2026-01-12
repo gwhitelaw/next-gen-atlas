@@ -2,10 +2,6 @@
 
 This Preamble will be further populated in later iterations of the Atlas.
 
-## A.0.1 - Atlas Preamble [Article]  <!-- UUID: 56b15d7d-cdd4-4594-bd95-4f094564ac04 -->
-
-This Article contains definitions and general provisions that should be inherited as essential context for the Atlas as a whole.
-
 ### A.0.1.1 - Definitions [Section]  <!-- UUID: c7d62f28-1d64-4632-8cd8-4f2b44c51bba -->
 
 This Section contains essential definitions that are to be inherited as context for all Atlas documents.
@@ -5561,6 +5557,10 @@ This Article regulates the Monthly Governance Cycle, which provides a predictabl
 ### A.1.11.1 - Calendar Exceptions [Section]  <!-- UUID: 6c0810e2-390d-4efb-8b31-f36a7f6e1a05 -->
 
 Due to the multitude of cultural and religious holidays occurring in and around the month of December, there will be no Monthly Governance Cycle in the December of each year.
+
+## A.1.11.1 - Atlas Preamble [Article]  <!-- UUID: 56b15d7d-cdd4-4594-bd95-4f094564ac04 -->
+
+This Article contains definitions and general provisions that should be inherited as essential context for the Atlas as a whole.
 
 ### A.1.11.2 - Atlas Edit Monthly Cycle [Section]  <!-- UUID: d2cbddd2-58ef-4311-a71d-d2c340364cb5 -->
 
